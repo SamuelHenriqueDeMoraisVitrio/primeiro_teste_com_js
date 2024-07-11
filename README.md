@@ -1,1 +1,3 @@
-# primeiro_teste_com_js
+# Testando o **git**
+***
+Aprendendo **git** e **JS**, com este projeto.
